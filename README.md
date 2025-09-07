@@ -42,12 +42,12 @@
 Правильно написано всі 5 запитів відповідно до заданих умов виконання. SQL-запити виконуються й повертають необхідні дані.
 
 **Результат виконаного ДЗ:**
-<img width="1549" height="1043" alt="01-image" src="https://github.com/user-attachments/assets/17209352-a6f0-4b16-a5cc-6d57e2ff84de" />
+<img width="1044" height="963" alt="01-image" src="https://github.com/user-attachments/assets/7911f196-d851-4a37-9018-12fa85ee1821" />
 
-<img width="1549" height="1042" alt="02-image" src="https://github.com/user-attachments/assets/bd7ec93c-5c59-4562-8353-67f3cc8eb9ae" />
+<img width="1044" height="948" alt="02-image" src="https://github.com/user-attachments/assets/bc8b3a07-40b6-430d-af59-5763cba6887d" />
 
-<img width="1546" height="1040" alt="03-image" src="https://github.com/user-attachments/assets/aaba1269-31ff-4ec1-9763-357432bba285" />
+<img width="1078" height="984" alt="03-image" src="https://github.com/user-attachments/assets/98810e1c-0ada-4bcf-956e-54a511d543b8" />
 
-<img width="1548" height="1038" alt="04-image" src="https://github.com/user-attachments/assets/b725226d-abf5-4858-aa2d-8e85ec97fa30" />
+<img width="1070" height="942" alt="04-image" src="https://github.com/user-attachments/assets/374d638c-be4a-46c2-9df3-438ec69fe885" />
 
-<img width="1546" height="1039" alt="05-image" src="https://github.com/user-attachments/assets/880cbb68-1b12-4f92-9ba0-3e46348d7e39" />
+<img width="1069" height="901" alt="05-image" src="https://github.com/user-attachments/assets/a8185d74-26dc-4537-8d68-5a0422f053f9" />
